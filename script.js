@@ -46,7 +46,7 @@ $(document).ready(function () {
 
          var type = new Typed(".typing", {
 
-            strings: ["Wed Designer", " Web Developer", "Freelancer"],
+            strings: ["Web Designer", " Web Developer", "Freelancer"],
             typeSpeed: 120,
             backSpeed:60,
             loop: true
@@ -58,7 +58,7 @@ $(document).ready(function () {
 
     var type = new Typed(".typing-2", {
 
-            strings: ["Wed Designer", " Web Developer", "Freelancer"],
+            strings: ["Web Designer", " Web Developer", "Freelancer"],
             typeSpeed: 120,
             backSpeed:60,
             loop: true
